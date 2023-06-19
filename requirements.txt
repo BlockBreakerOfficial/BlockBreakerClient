@@ -1,4 +1,4 @@
 pillow
-tkinter
+tk
 datetime
 json
