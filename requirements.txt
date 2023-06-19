@@ -1,4 +1,2 @@
 pillow
 tk
-datetime
-json
