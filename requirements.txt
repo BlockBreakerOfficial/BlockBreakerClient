@@ -1,0 +1,4 @@
+pillow
+tkinter
+datetime
+json
